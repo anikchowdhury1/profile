@@ -1,0 +1,12 @@
+*.gem
+.bundle
+.sass-cache
+_site
+*.code-workspace
+vendor
+.idea
+.vagrant
+
+# general
+.DS_Store
+Gemfile.lock
